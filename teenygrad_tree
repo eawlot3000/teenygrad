@@ -1,6 +1,8 @@
 .
 ├── LICENSE
-├── README
+├── OG_README
+├── README.md
+├── README_cn.md
 ├── extra
 │   └── datasets
 │       └── mnist
@@ -30,4 +32,4 @@
     ├── test_ops.py
     └── test_optim.py
 
-8 directories, 23 files
+8 directories, 25 files
