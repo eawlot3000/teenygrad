@@ -16,13 +16,13 @@ pip install numpy tqdm
 PYTHONPATH="." python mnist.py
 
 ----
+----
+<br>
+[chinese](README_zh.md)
 
 
 
-
-
-
-## gpt-4:
+## gpt-4 analyze:
 
 ```markdown
 tree:
