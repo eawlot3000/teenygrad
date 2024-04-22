@@ -1,0 +1,33 @@
+.
+├── LICENSE
+├── README
+├── extra
+│   └── datasets
+│       └── mnist
+│           ├── t10k-images-idx3-ubyte.gz
+│           ├── t10k-labels-idx1-ubyte.gz
+│           ├── train-images-idx3-ubyte.gz
+│           └── train-labels-idx1-ubyte.gz
+├── import_from_tinygrad.py
+├── mnist.py
+├── mypy.ini
+├── sz.py
+├── teenygrad
+│   ├── __init__.py
+│   ├── helpers.py
+│   ├── lazy.py
+│   ├── mlops.py
+│   ├── nn
+│   │   └── optim.py
+│   ├── ops.py
+│   ├── realize.py
+│   ├── shape
+│   │   └── symbolic.py
+│   └── tensor.py
+├── teenygrad_tree
+└── test
+    ├── test_dtype.py
+    ├── test_ops.py
+    └── test_optim.py
+
+8 directories, 23 files
