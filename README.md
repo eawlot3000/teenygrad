@@ -1,3 +1,4 @@
+[the OG README](OG_README)
 teenygrad is <1000 line MNIST trainer
 
 It shares 90% of its code with tinygrad,
