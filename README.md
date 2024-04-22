@@ -1,8 +1,6 @@
 [the OG README](OG_README)
-<br>
 ----
-----
-<br>
+---- <br>
 
 [chinese](README_cn.md)
 
