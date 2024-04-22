@@ -3,7 +3,7 @@
 ----
 <br>
 
-[chinese](README_cn.md)
+### [chinese translation](README_cn.md)
 
 
 
