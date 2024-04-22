@@ -2,8 +2,8 @@
 ----
 ----
 <br>
-
 ### [chinese translation](README_cn.md)
+<br>
 
 
 
