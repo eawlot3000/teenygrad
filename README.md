@@ -18,7 +18,7 @@ PYTHONPATH="." python mnist.py
 ----
 ----
 <br>
-[chinese](README_zh.md)
+[chinese](README_cn.md)
 
 
 
