@@ -36,8 +36,7 @@
     ├── test_ops.py
     └── test_optim.py
 
-8 directories, 23 files
-
+8个目录，23个文件
 ```
 
 
